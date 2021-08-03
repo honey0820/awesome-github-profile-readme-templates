@@ -30,6 +30,5 @@
 ## Open For Oppurtunities :purple_heart: !
 
 -----
-Credits: [maneprajakta](https://github.com/maneprajakta)
-
+Credits: [maneprajakta](https://github.com/maneprajakta))
 Last Edited on: 30/08/2020
