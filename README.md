@@ -18,14 +18,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## A 
 
-[Adam-pw](https://github.com/Adam-pw)
-<details>
-<summary>Preview  </summary>
-
-[name](Adam-pw.md ':include')
-
-</details>
-
 [ABSphreak](https://github.com/ABSphreak)
 
 <details>
@@ -589,6 +581,13 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
+[chinmay29hub](https://github.com/chinmay29hub)
+<details>
+<summary>Preview  </summary>
+
+[chinmay29hub](chinmay29hub.md ':include')
+
+</details>
 
 ## D
 
@@ -2346,6 +2345,14 @@ Don't forget to hit the :star:, If you like this repo.
 
 [thuanpham2311](thuanpham2311.md ':include')
   
+</details>
+
+[tienhuynh-tn](https://github.com/tienhuynh-tn)
+<details>
+<summary>Preview  </summary>
+
+[tienhuynh-tn](tienhuynh-tn.md ':include')
+
 </details>
 
 [timburgan](https://github.com/timburgan)
