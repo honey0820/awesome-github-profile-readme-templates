@@ -24,6 +24,13 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [abhigyantrips](AbhigyanTrips.md ':include')
+  
+[Adam-pw](https://github.com/Adam-pw)
+<details>
+<summary>Preview  </summary>
+
+[Adam-pw](Adam-pw.md ':include')
+
 
 </details>
 
@@ -477,6 +484,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 [bornmay](bornmay.md ':include')
   
+</details>
+
+[bugahontas](https://github.com/bugahontas)
+
+<details>
+<summary>Preview  </summary>
+
+[bugahontas](bugahontas.md ':include')
+
 </details>
 
 [bughunter0](https://github.com/bughunter0)
@@ -2622,3 +2638,4 @@ All credits goes to the original authors of the GitHub profile. I don't own any 
 
 ## Reference
 Some implementations are from [coderjojo](https://github.com/coderjojo)
+
