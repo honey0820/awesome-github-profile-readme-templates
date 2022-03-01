@@ -1736,14 +1736,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[oHTGo](https://github.com/oHTGo)
-
-<details>
-<summary>Preview  </summary>
-
-[oHTGo](oHTGo.md ':include')
-
-</details>
 
 
 ## P
@@ -2473,6 +2465,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 [tonynguyenit18](tonynguyenit18.md ':include')
   
+</details>
+
+[trinib](https://github.com/trinib)
+
+<details>
+<summary>Preview  </summary>
+
+[trinib](trinib.md ':include')
+
 </details>
 
 
