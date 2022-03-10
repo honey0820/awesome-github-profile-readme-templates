@@ -13,20 +13,11 @@ Feel free to add your or some one else's GitHub profile README file.
 Don't forget to hit the :star:, If you like this repo.
 
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [0](#0) | [1](#1) | [2](#2) | [3](#3) | [4](#4) | [5](#5) | [6](#6) | [7](#7) | [8](#8) | [9](#9)
+**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
 
 ## A 
 
-[abhigyantrips](https://github.com/abhigyantrips)
-
-<details>
-<summary>Preview  </summary>
-
-[abhigyantrips](abhigyantrips.md ':include')
-
-</details>
-  
 [Adam-pw](https://github.com/Adam-pw)
 <details>
 <summary>Preview  </summary>
@@ -41,7 +32,7 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [ABSphreak](ABSphreak.md ':include')
-
+   
 </details>
 
 [ASovindu](https://github.com/ASovindu)
@@ -50,23 +41,16 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [ASovindu](ASovindu.md ':include')
-
-</details>
-
-[avinash-218](https://github.com/avinash-218)
-<details>
-<summary>Preview  </summary>
-
-[avinash-218](avinash-218.md ':include')
-
+  
 </details>
 
 [AVS1508](https://github.com/AVS1508)
+  
 <details>
 <summary>Preview  </summary>
 
 [AVS1508](AVS1508.md ':include')
-
+  
 </details>
 
 [Aditya664](https://github.com/Aditya664)
@@ -76,14 +60,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 [Aditya664](Aditya664.md ':include')
   
-</details>
-
-[Ahmed Fathy](https://github.com/AhmedFathyDev)
-<details>
-<summary>Preview  </summary>
-
-[Ahmed Fathy](AhmedFathyDev.md ':include')
-
 </details>
 
 [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
@@ -195,25 +171,25 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 [aastha12](https://github.com/aastha12)
-
+  
 <details>
 <summary>Preview  </summary>
 
 [aastha12](aastha12.md ':include')
-
+  
 </details>
 
 [aayushi-droid](https://github.com/aayushi-droid)
-
+  
 <details>
 <summary>Preview  </summary>
 
 [aayushi-droid](aayushi-droid.md ':include')
-
+  
 </details>
 
 [abhinavdubeyad9](https://github.com/abhinavdubeyad9)
-
+  
 <details>
 <summary>Preview  </summary>
 
@@ -236,25 +212,25 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [acervenky](acervenky.md ':include')
-
+  
 </details>
 
 [adamalston](https://github.com/adamalston)
-
+  
 <details>
 <summary>Preview  </summary>
 
 [adamalston](adamalston.md ':include')
-
+  
 </details>
 
 [afc163](https://github.com/afc163)
-
+  
 <details>
 <summary>Preview  </summary>
 
 [afc163](afc163.md ':include')
-
+  
 </details>
 
 [akasrai](https://github.com/akasrai)
@@ -466,15 +442,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[bhumikatewary](https://github.com/bhumikatewary)
-  
-<details>
-<summary>Preview  </summary>
-
-[bhumikatewary](bhumikatewary.md ':include')
-  
-</details>
-
 [billpwchan](https://github.com/billpwchan)
   
 <details>
@@ -509,15 +476,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 [bornmay](bornmay.md ':include')
   
-</details>
-
-[bugahontas](https://github.com/bugahontas)
-
-<details>
-<summary>Preview  </summary>
-
-[bugahontas](bugahontas.md ':include')
-
 </details>
 
 [bughunter0](https://github.com/bughunter0)
@@ -631,13 +589,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[chinmay29hub](https://github.com/chinmay29hub)
-<details>
-<summary>Preview  </summary>
-
-[chinmay29hub](chinmay29hub.md ':include')
-
-</details>
 
 ## D
 
@@ -1253,15 +1204,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[jrmydix](https://github.com/jrmydix)
-  
-<details>
-<summary>Preview  </summary>
-
-[jrmydix](jrmydix.md ':include')
-  
-</details>
-
 [jy1263](https://github.com/jy1263)
   
 <details>
@@ -1698,14 +1640,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[Nishant1500](Nishant1500.md ':include')
-<details>
-<summary>Preview </summary>
-
-[Nishant1500](Nishant1500.md ':include')
-
-</details>
-
 
 ## O
 
@@ -1876,15 +1810,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 
 ## R
-
-[RaviSolanki27](https://github.com/RaviSolanki27)
-<details>
-<summary>Preview  </summary>
-
-[RaviSolanki27](RaviSolanki27.md ':include')
-
-</details>
-
 
 [RahulMahesh62](https://github.com/RahulMahesh62)
   
@@ -2240,15 +2165,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[sourabmaity](https://github.com/sourabmaity)
-
-<details>
-<summary>Preview  </summary>
-
-[sourabmaity](sourabmaity.md ':include')
-
-</details>
-
 [sriharikapu](https://github.com/sriharikapu)
   
 <details>
@@ -2321,15 +2237,6 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [TanZng](TanZng.md ':include')
-  
-</details>
-
-[TekyaygilFethi](https://github.com/TekyaygilFethi)
-
-<details>
-<summary>Preview  </summary>
-
-[TekyaygilFethi](TekyaygilFethi.md ':include')
   
 </details>
 
@@ -2441,14 +2348,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[tienhuynh-tn](https://github.com/tienhuynh-tn)
-<details>
-<summary>Preview  </summary>
-
-[tienhuynh-tn](tienhuynh-tn.md ':include')
-
-</details>
-
 [timburgan](https://github.com/timburgan)
   
 <details>
@@ -2465,15 +2364,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 [tonynguyenit18](tonynguyenit18.md ':include')
   
-</details>
-
-[trinib](https://github.com/trinib)
-
-<details>
-<summary>Preview  </summary>
-
-[trinib](trinib.md ':include')
-
 </details>
 
 
@@ -2546,14 +2436,7 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 [vimalverma558](https://github.com/vimalverma558)
-
-<details>
-<summary>Preview  </summary>
-
-[viralbhadeshiya](viralbhadeshiya.md ':include')
   
-</details>  
-
 <details>
 <summary>Preview  </summary>
 
@@ -2718,37 +2601,8 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 
-## 0
-
-## 1
-
-## 2
-
-## 3
-
-## 4
-
-## 5
-
-## 6
-
-## 7
-
-[7oSkaaa](https://github.com/7oSkaaa)
-  
-<details>
-<summary>Preview  </summary>
-
-[7oSkaaa](7oSkaaa.md ':include')
-</details>
-
-## 8
-
-## 9
-
 ## Credits
 All credits goes to the original authors of the GitHub profile. I don't own any content.
 
 ## Reference
 Some implementations are from [coderjojo](https://github.com/coderjojo)
-
