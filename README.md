@@ -1328,15 +1328,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
-[Kaustav-Ganguly](https://github.com/kaustav202)
-
-<details>
-<summary>Preview  </summary>
-
-[Kaustav](Kaustav.md ':include')
-
-</details>
-
 [KevinPatel04](https://github.com/KevinPatel04)
 
 <details>
@@ -1784,15 +1775,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
-[Null3000](https://github.com/null3000)
-
-<details>
-<summary>Preview  </summary>
-
-[Null3000](null3000.md ':include')
-
-</details>
-
 ## O
 
 [OmkarPathak](https://github.com/OmkarPathak)
@@ -1905,15 +1887,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
-[phuocantd](https://github.com/phuocantd)
-
-<details>
-<summary>Preview  </summary>
-
-[phuocantd](phuocantd.md ':include')
-
-</details>
-
 [piyushxbajaj](https://github.com/piyushxbajaj)
 
 <details>
@@ -1985,15 +1958,6 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [RaviSolanki27](RaviSolanki27.md ':include')
-
-</details>
-
-[rahulkarda](https://github.com/rahulkarda)
-
-<details>
-<summary>Preview  </summary>
-
-[rahulkarda](rahulkarda.md ':include')
 
 </details>
 
@@ -2452,15 +2416,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## T
 
-[Tahanima](https://github.com/Tahanima)
-
-<details>
-<summary>Preview  </summary>
-
-[Tahanima](Tahanima.md ':include')
-
-</details>
-
 [TanZng](https://github.com/TanZng)
 
 <details>
@@ -2861,15 +2816,6 @@ Don't forget to hit the :star:, If you like this repo.
 ## 0
 
 ## 1
-
-[1999azzar](https://github.com/1999azzar)
-
-<details>
-<summary>Preview  </summary>
-
-[1999azzar](1999azzar.md ':include')
-
-</details>
 
 ## 2
 
