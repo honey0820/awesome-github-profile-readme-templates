@@ -1490,11 +1490,14 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
+</details>
+
+[linitio](https://github.com/linitio)
+
 <details>
 <summary>Preview  </summary>
 
-[linitio](linitio.md ':include')
-
+[linitio](linitio.md ":include")
 
 </details>
 
@@ -2157,16 +2160,6 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 ## S
-
-[Sarath-PM](https://github.com/sarath-pm)
-
-<details>
-<summary>Preview  </summary>
-
-[Sarath-PM](sarath-pm.md ":include")
-
-</details>
-
 
 [Sabihashaik](https://github.com/Sabihashaik)
 
