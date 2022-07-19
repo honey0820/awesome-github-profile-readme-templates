@@ -419,6 +419,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## B
 
+[Bouaskaoun](https://github.com/Bouaskaoun)
+
+<details>
+<summary>Preview  </summary>
+
+[Bouaskaoun](Bouaskaoun.md ':include')
+
+</details>
+
 [BRdhanani](https://github.com/BRdhanani)
 
 <details>
@@ -986,6 +995,15 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 ## H
+
+[hashfx](https://github.con/hashfx)
+
+<details>
+<summary>Preview  </summary>
+
+[hashfx](hashfx.md ':include')
+
+</details>
 
 [HridoyHazard](https://github.com/HridoyHazard)
 
@@ -2160,6 +2178,16 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 ## S
+
+[Sarath-PM](https://github.com/sarath-pm)
+
+<details>
+<summary>Preview  </summary>
+
+[Sarath-PM](sarath-pm.md ":include")
+
+</details>
+
 
 [Sabihashaik](https://github.com/Sabihashaik)
 
