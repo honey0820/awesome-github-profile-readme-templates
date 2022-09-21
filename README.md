@@ -1369,6 +1369,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
+[Jaivardhan Bhola](https://github.com/jaivardhan-bhola)
+
+<details>
+<summary>Preview  </summary>
+
+[Jaivardhan Bhola](jaivardhan-bhola.md ":include")
+
+</details>
+
 ## K
 
 [KasRoudra](https://github.com/KasRoudra)
@@ -1939,6 +1948,14 @@ Don't forget to hit the :star:, If you like this repo.
 
 [Pepyn0](Pepyn0.md ":include")
 
+</details>
+
+[pmbechard](https://github.com/pmbechard/)
+<details>
+<summary>Preview  </summary>
+  
+[pmbechard](pmbechard.md ':include')
+  
 </details>
 
 [PluckyPrecious](https://github.com/PluckyPrecious)
@@ -3038,3 +3055,4 @@ All credits goes to the original authors of the GitHub profile. I don't own any 
 ## Reference
 
 Some implementations are from [coderjojo](https://github.com/coderjojo)
+
