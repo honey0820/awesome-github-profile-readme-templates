@@ -145,6 +145,7 @@
     - [HridoyHazard](/templates/HridoyHazard.md)
     - [hrnbot](/templates/hrnbot.md)
     - [hrugved06](/templates/hrugved06.md)
+    - [hxrii](/templates/hxrii.md)
   - I
     - [I-am-vishalmaurya](/templates/I-am-vishalmaurya.md)
     - [iahsanujunda](/templates/iahsanujunda.md)
@@ -258,7 +259,6 @@
     - [PluckyPrecious](/templates/PluckyPrecious.md)
     - [pmbechard](/templates/pmbechard.md)
     - [pr2tik1](/templates/pr2tik1.md)
-    - [pranshu05](/templates/pranshu05.md)
     - [prathimacode-hub](/templates/prathimacode-hub.md)
     - [prathmesh16](/templates/prathmesh16.md)
     - [pratik-kale20](/templates/pratik-kale20.md)
