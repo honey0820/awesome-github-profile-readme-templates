@@ -229,7 +229,6 @@
     - [MrStanDu33](/templates/MrStanDu33.md)
     - [ms314006](/templates/ms314006.md)
     - [MUHAMMADFAIZANHAIDAR](/templates/MUHAMMADFAIZANHAIDAR.md)
-    - [Mahdiiye](/templates/Mahdiiye.md)
   - N
     - [naisofly](/templates/naisofly.md)
     - [nasreekar](/templates/nasreekar.md)
@@ -299,6 +298,7 @@
     - [shaan71845](/templates/shaan71845.md)
     - [sharannyobasu](/templates/sharannyobasu.md)
     - [shaurya-src](/templates/shaurya-src.md)
+    - [Shourya742](/templates/Shourya742.md)
     - [shravanatirtha](/templates/shravanatirtha.md)
     - [Shreya549](/templates/Shreya549.md)
     - [Shwetang550](/templates/Shwetang550.md)
