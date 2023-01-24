@@ -81,6 +81,7 @@
     - [BrantLauro](/templates/BrantLauro.md)
     - [BRdhanani](/templates/BRdhanani.md)
     - [bugahontas](/templates/bugahontas.md)
+    - [brightkut](/templates/brightkut.md)
   - C
     - [Candida18](/templates/Candida18.md)
     - [caneco](/templates/caneco.md)
@@ -298,7 +299,6 @@
     - [shaan71845](/templates/shaan71845.md)
     - [sharannyobasu](/templates/sharannyobasu.md)
     - [shaurya-src](/templates/shaurya-src.md)
-    - [Shourya742](/templates/Shourya742.md)
     - [shravanatirtha](/templates/shravanatirtha.md)
     - [Shreya549](/templates/Shreya549.md)
     - [Shwetang550](/templates/Shwetang550.md)
