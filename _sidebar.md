@@ -235,7 +235,6 @@
     - [naisofly](/templates/naisofly.md)
     - [nasreekar](/templates/nasreekar.md)
     - [NavodyaPasqual](/templates/NavodyaPasqual.md)
-    - [Niefee](/templates/Niefee.md)
     - [Niko-Cloud](/templates/Niko-Cloud.md)
     - [Nishant1500](/templates/Nishant1500.md)
     - [Nishant1500](/templates/Nishant1500.md)
@@ -377,6 +376,7 @@
     - [YasPHP](/templates/YasPHP.md)
     - [yuebaix](/templates/yuebaix.md)
     - [yzhao062](/templates/yzhao062.md)
+    - [YasinAlhadi](/templates/YasinAlhadi.md)
   - Z
     - [ZamranxD](/templates/ZamranxD.md)
     - [zeeid](https://github.com/zeeid)
